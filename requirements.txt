@@ -2,8 +2,10 @@ fastapi
 uvicorn
 sqlalchemy
 chromadb
-sentence-transformers
 ollama
 scikit-learn
 pydantic
 python-multipart
+sentence-transformers
+--index-url https://download.pytorch.org/whl/cpu
+torch
